@@ -1,1 +1,1 @@
-Folder zawiera pliki z certyfikatami jakie m.in. zdobyłam podczas nauki :)
+Folder zawiera pliki z certyfikatami jakie zdobyłam podczas nauki :)
